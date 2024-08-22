@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1 {
+	color: red;
+}
+
+/*
+선택자 {
+	속성;
+}
+#id			- id 속성이 id인 것
+.id			- 클래스 이름이 id인 것
+h1			- 단순히 태그 직접 쓰는 것
+하위태그 table > tr	- table태그 아래에 있는 tr태그 : 1개
+#id > a		- id가 id인 태그 아래에 있는 a태그
+
+table tr	- table태그 아래에 있는 모든 tr 태그 : 2개
+<table>
+	<tr>
+		<td></td>
+		<tr></tr>
+	</tr>
+</table>
+*/
