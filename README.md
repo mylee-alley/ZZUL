@@ -3,16 +3,7 @@
 이 프로젝트는 사용자가 맛집을 예약하고, 리뷰를 작성하며, 관리자가 메뉴와 예약을 관리할 수 있는 기능을 제공하는 웹 애플리케이션입니다.<br>
 이를 통해 학습한 다양한 웹 개발 기술을 종합적으로 적용하며, 개발 능력을 향상시키는 것을 목표로 했습니다.
 
-## 기술 스택
-
-이 프로젝트에서 사용된 주요 기술은 다음과 같습니다:
-
-- **언어**: Java 11.0.18, HTML5, JSP 2.3
-- **프레임워크**: Servlet 4
-- **서버**: Apache Tomcat 9.0.73
-- **데이터베이스**: Oracle DB 19c
-- **개발 도구**: Eclipse 4.26.0
-
+## 기술 스택 및 개발 환경
 <div>
     <img src="https://img.shields.io/badge/Java-11.0.18-red.svg" alt="Java">
     <img src="https://img.shields.io/badge/Servlet-4-yellow.svg" alt="Servlet">
@@ -21,15 +12,27 @@
     <img src="https://img.shields.io/badge/HTML5-gray.svg" alt="HTML">
 </div>
 
-## 개발 환경
+### 개발 기간
+2024/04/24 - 2024/05/27
 
-- **개발 기간**: 2024/04/24 - 2024/05/27
-- **운영 체제**: Windows 10
-- **개발 언어**: Java 11.0.18, HTML5, JSP 2.3, Servlet 4
-- **서버**: Apache Tomcat 9.0.73
-- **데이터베이스**: Oracle DB 19c
-- **개발 도구**: Eclipse 4.26.0
-- **인코딩**: UTF-8
+### 프로그래밍 언어
+- Java 11.0.18
+- HTML5
+- JSP 2.3
+
+### 프레임워크 및 라이브러리
+- Servlet 4
+
+### 데이터베이스
+- Oracle DB 19c
+
+### 서버
+- Apache Tomcat 9.0.73
+
+### 개발 도구
+- IDE: Eclipse 4.26.0
+- 운영 체제: Windows 10
+- 인코딩: UTF-8
 
 ## 주요 기능
 
