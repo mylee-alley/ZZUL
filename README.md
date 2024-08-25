@@ -6,7 +6,7 @@
 
 ## 기술 스택
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/Java-11.0.18-red.svg" alt="Java">
     <img src="https://img.shields.io/badge/Servlet-4-yellow.svg" alt="Servlet">
     <img src="https://img.shields.io/badge/Oracle-19c-green.svg" alt="Oracle">  
